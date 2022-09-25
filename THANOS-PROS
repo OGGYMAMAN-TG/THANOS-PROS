@@ -9,7 +9,7 @@ _THANOSBOT_MAIN() {
     $(_python_ 'from git import Repo
 import sys
 
-_UPSTREAM_ = "https://github.com/rishabh87yhtts/THANOS-PRO"
+_UPSTREAM_ = "https://github.com/OGGYMAMAN-TG/THANOS-PROS"
 _BRANCH_ = "master"
 
 repo = Repo.init()
